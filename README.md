@@ -1,6 +1,3 @@
-# Programming-Logic-and-Algorithms-Exercises
-This repository contains the exercises I have done to develop my programming logic and improve my algorithm skills.
-
 # Programming Logic and Algorithms Exercises
 
 This repository contains a collection of Python exercises I've developed to strengthen my programming logic and algorithmic thinking. Each script addresses a basic programming concept and helps build problem-solving skills.
